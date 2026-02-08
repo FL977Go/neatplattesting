@@ -1,6 +1,8 @@
 # from time import sleep
 import os
 import pygame
+from random import random
+from math import sqrt
 # Only create GUI/Display resources when not running headless
 HEADLESS = os.environ.get('HEADLESS') == '1'
 if not HEADLESS:
@@ -9,8 +11,7 @@ if not HEADLESS:
     pygame.display.init()
 # from keyboard import is_pressed
 # from ctypes import windll
-from random import random,randint
-from math import sqrt
+
 # Screen size
 SCwidth = 1920*0.8
 SChight = 1080*0.8
