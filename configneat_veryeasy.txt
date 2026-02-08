@@ -1,0 +1,90 @@
+[NEAT]
+fitness_criterion     = max
+fitness_threshold     = 400
+no_fitness_termination = False
+pop_size              = 150
+reset_on_extinction   = False
+
+[DefaultGenome]
+# node activation options
+activation_default      = tanh
+activation_mutate_rate  = 0.2
+activation_options      = sigmoid tanh relu
+
+# new required for this neat-python version
+single_structural_mutation = false
+structural_mutation_surer = default
+
+# node aggregation options
+aggregation_default     = sum
+aggregation_mutate_rate = 0.2
+aggregation_options     = sum
+
+# node bias options
+bias_init_mean          = 0.0
+bias_init_stdev         = 1.0
+bias_max_value          = 30.0
+bias_min_value          = -30.0
+bias_mutate_power       = 0.35
+bias_mutate_rate        = 0.2
+bias_replace_rate       = 0.1
+bias_init_type          = gaussian
+enabled_rate_to_true_add = 0.0
+enabled_rate_to_false_add = 0.0
+
+# genome compatibility options
+compatibility_disjoint_coefficient = 1.0
+compatibility_weight_coefficient   = 0.5
+
+# connection add/remove rates
+conn_add_prob           = 0.25
+conn_delete_prob        = 0.15
+
+# connection enable options
+enabled_default         = True
+enabled_mutate_rate     = 0.05
+
+feed_forward            = False
+initial_connection      = full_direct
+
+# node add/remove rates
+node_add_prob           = 0.25
+node_delete_prob        = 0.10
+
+# network parameters
+num_hidden              = 2
+num_inputs              = 9
+num_outputs             = 3
+
+# node response options
+response_init_mean      = 1.0
+response_init_stdev     = 0.0
+response_max_value      = 30.0
+response_min_value      = -30.0
+response_mutate_power   = 0.35
+response_mutate_rate    = 0.2
+response_replace_rate   = 0.1
+response_init_type      = gaussian
+
+# connection weight options
+weight_init_mean        = 0.0
+weight_init_stdev       = 1.5
+weight_max_value        = 30
+weight_min_value        = -30
+weight_mutate_power     = 0.35
+weight_mutate_rate      = 0.55
+weight_replace_rate     = 0.2
+weight_init_type        = gaussian
+
+[DefaultSpeciesSet]
+compatibility_threshold = 3.0
+
+[DefaultStagnation]
+species_fitness_func = max
+max_stagnation       = 15
+species_elitism      = 3
+
+[DefaultReproduction]
+elitism            = 3
+survival_threshold = 0.2
+min_species_size   = 2
