@@ -1,0 +1,89 @@
+
+**** starting gen 0 ****
+Generation 0 | (stats unavailable)
+
+**** starting gen 1 ****
+Generation 1 | (stats unavailable)
+
+**** starting gen 2 ****
+Generation 2 | (stats unavailable)
+
+**** starting gen 3 ****
+Generation 3 | (stats unavailable)
+
+**** starting gen 4 ****
+Generation 4 | (stats unavailable)
+
+**** starting gen 5 ****
+Generation 5 | (stats unavailable)
+
+**** starting gen 6 ****
+Generation 6 | (stats unavailable)
+
+**** starting gen 7 ****
+Generation 7 | (stats unavailable)
+
+**** starting gen 8 ****
+Generation 8 | (stats unavailable)
+
+**** starting gen 9 ****
+Generation 9 | (stats unavailable)
+
+**** starting gen 10 ****
+Generation 10 | (stats unavailable)
+
+**** starting gen 11 ****
+Generation 11 | (stats unavailable)
+
+**** starting gen 12 ****
+Generation 12 | (stats unavailable)
+
+**** starting gen 13 ****
+Generation 13 | (stats unavailable)
+
+**** starting gen 14 ****
+Generation 14 | (stats unavailable)
+
+**** starting gen 15 ****
+Generation 15 | (stats unavailable)
+
+**** starting gen 16 ****
+Generation 16 | (stats unavailable)
+
+**** starting gen 17 ****
+Generation 17 | (stats unavailable)
+
+**** starting gen 18 ****
+Generation 18 | (stats unavailable)
+
+**** starting gen 19 ****
+Generation 19 | (stats unavailable)
+
+**** starting gen 20 ****
+Generation 20 | (stats unavailable)
+
+**** starting gen 21 ****
+Generation 21 | (stats unavailable)
+
+**** starting gen 22 ****
+Generation 22 | (stats unavailable)
+
+**** starting gen 23 ****
+Generation 23 | (stats unavailable)
+
+**** starting gen 24 ****
+Generation 24 | (stats unavailable)
+
+**** starting gen 25 ****
+Generation 25 | (stats unavailable)
+
+**** starting gen 26 ****
+Generation 26 | (stats unavailable)
+
+**** starting gen 27 ****
+Generation 27 | (stats unavailable)
+
+**** starting gen 28 ****
+Generation 28 | (stats unavailable)
+
+**** starting gen 29 ****

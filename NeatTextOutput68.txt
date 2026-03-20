@@ -1,0 +1,268 @@
+
+**** starting gen 0 ****
+Population's average fitness: 10775.27981 stdev: 19846.41980
+Best fitness: 106970.87004 - size: (5, 56) - species 5 - id 76
+Population of 150 members in 10 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    1    0    35   7690.4    0.000     0
+    2    0    12  16489.6    0.000     0
+    3    0    41  12390.2    0.000     0
+    4    0     3  -1287.2    0.000     0
+    5    0    22  17476.2    0.000     0
+    6    0    14   8775.7    0.000     0
+    7    0     7   4337.4    0.000     0
+    8    0     3 -13165.4    0.000     0
+    9    0    11  10324.9    0.000     0
+   10    0     2  16668.6    0.000     0
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 1 ****
+Population's average fitness: 30632.47749 stdev: 49169.23403
+Best fitness: 441653.49646 - size: (5, 55) - species 1 - id 247
+Population of 150 members in 10 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    8    0     1 -29006.7    0.125     0
+    4    0     2  16668.6    0.211     0
+   10    0     5  13473.2    0.342     0
+    2    0    29  22261.6    0.341     0
+    6    0    11  28267.7    0.284     0
+    7    0     3   2530.2    0.252     0
+    9    0     8  22191.2    0.296     0
+    3    0    15  22393.7    0.311     0
+    1    0    48  47553.9    0.277     0
+    5    0    28  27251.0    0.348     0
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 2 ****
+Population's average fitness: 37540.25207 stdev: 62664.82589
+Best fitness: 441653.49646 - size: (5, 55) - species 7 - id 247
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    8    0     4  -7170.7    0.006     0
+    7    0    21  45239.0    0.072     0
+    4    0     7   -867.6    0.102     1
+   10    0     7  73750.5    0.095     0
+    9    0    18  33362.6    0.114     0
+    2    0     8  28570.1    0.114     1
+    6    0    20  40111.1    0.127     1
+    5    0    12  43678.5    0.125     0
+    3    0     1    691.6    0.114     1
+    1    0    18  44444.7    0.167     1
+   12    0     6  41495.3    0.000     1
+   13    0     2  16668.6    0.000     1
+   14    0    12  30118.3    0.000     1
+   15    0     9  19056.7    0.000     1
+   16    0     5  85626.5    0.000     1
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 3 ****
+Population's average fitness: 43828.86247 stdev: 63126.59121
+Best fitness: 441653.49646 - size: (5, 55) - species 16 - id 247
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    3    0     4    691.6    0.077     1
+    4    0     5  20094.4    0.074     1
+   13    0     3  23402.7    0.111     2
+   15    0    10  41173.4    0.116     2
+    8    0     3   2740.8    0.061     2
+    2    0    14  21461.9    0.136     1
+   14    0    20  34848.4    0.139     2
+   12    0     8  37940.5    0.163     2
+    5    0    11  53483.4    0.167     0
+    9    0     3  20015.5    0.146     2
+    6    0    16  41098.3    0.160     2
+   16    0    13  83647.1    0.255     2
+    1    0    15  58980.3    0.169     1
+   10    0    13  67374.0    0.230     2
+    7    0    12  43837.7    0.170     2
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 4 ****
+Population's average fitness: 50480.10300 stdev: 82500.37255
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    3    0     7   9985.9    0.063     1
+    9    0     9  34707.5    0.104     2
+    4    0     4  11778.9    0.104     3
+    8    0     4   2228.5    0.067     2
+   13    0     6  55636.5    0.111     3
+    2    0     7   8946.0    0.107     3
+   12    0     9  33811.1    0.142     2
+    5    0    12  40960.0    0.175     0
+    7    0    11  33188.3    0.155     2
+   15    0    11  77241.0    0.149     3
+   14    0    15  69830.1    0.136     3
+    6    0    13  42095.4    0.149     2
+    1    0    14  68629.6    0.187     1
+   10    0    13  64548.5    0.205     2
+   16    0    15  88806.5    0.239     3
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 5 ****
+Population's average fitness: 54405.53668 stdev: 86786.07829
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    4    0     6  27319.9    0.075     3
+    3    0     6  36413.3    0.072     1
+    8    0     5  10340.4    0.058     2
+    2    0     6  19154.3    0.070     3
+    9    0     4  32424.2    0.118     2
+   12    0     8  32487.7    0.116     4
+    5    0    11  51143.8    0.129     0
+    7    0    11  35778.7    0.115     2
+    6    0    11  43091.2    0.131     2
+   13    0     9  65553.3    0.156     4
+    1    0    13  66053.3    0.180     1
+   15    0    14  54542.9    0.196     4
+   10    0    13  77971.2    0.173     2
+   16    0    16  83589.7    0.217     3
+   14    0    17  72277.6    0.182     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 6 ****
+Population's average fitness: 66194.80855 stdev: 99487.54786
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    4    0     7  32645.6    0.097     3
+    8    0     5  25707.6    0.065     2
+    2    0     7  50807.7    0.082     3
+    9    0     7  29711.1    0.106     2
+   12    0     7  45182.0    0.106     4
+    7    0    10  50112.1    0.112     2
+    3    0     7  27533.3    0.114     1
+    5    0    10  48198.7    0.141     5
+    6    0    10  76359.6    0.126     2
+    1    0    12  86090.1    0.169     1
+   15    0    13  62539.7    0.147     4
+   13    0    12  56059.1    0.168     5
+   10    0    13  68912.8    0.191     2
+   16    0    15  95703.2    0.201     3
+   14    0    15 126839.9    0.180     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 7 ****
+Population's average fitness: 76164.54158 stdev: 104972.91121
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    4    0     7  49544.2    0.111     3
+    8    0     7  42056.6    0.099     6
+    9    0     7  59137.4    0.106     2
+   12    0     8  34127.2    0.135     4
+    3    0     6  43678.6    0.102     1
+    5    0     9  57083.1    0.140     5
+    7    0     9  72931.9    0.144     2
+    2    0     8  65707.4    0.145     6
+    6    0    11  78035.8    0.192     6
+    1    0    13 112775.7    0.210     1
+   15    0    12  61500.4    0.167     4
+   13    0    13  54992.3    0.155     5
+   10    0    10 106445.2    0.178     2
+   16    0    14 104824.7    0.228     3
+   14    0    16 114328.1    0.286     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 8 ****
+Population's average fitness: 74242.76874 stdev: 105173.69303
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+   12    0     7  57601.7    0.125     4
+    8    0     8  41037.7    0.140     7
+    3    0     7  27899.9    0.143     1
+    5    0     8  86752.8    0.167     5
+    4    0     8  42695.6    0.154     7
+    9    0     8  59232.2    0.171     7
+    7    0    10  75125.1    0.196     2
+    2    0     9  54835.7    0.183     6
+    6    0    10  78212.1    0.206     6
+   15    0    11  71519.0    0.175     4
+   13    0    22  73844.4    0.164     5
+   10    0     1 180732.2    0.258     2
+    1    0    14  99911.6    0.269     1
+   16    0    13  89062.4    0.255     3
+   14    0    14 108905.1    0.272     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 9 ****
+Population's average fitness: 92451.93782 stdev: 118885.63897
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+   12    0     8  54762.3    0.172     4
+    8    0     8  31641.9    0.142     7
+    3    0     7  36230.7    0.119     1
+   10    0    10  61615.3    0.396     2
+    4    0     7  47479.3    0.145     7
+    9    0     9  66126.2    0.175     7
+    5    0     9 109139.7    0.225     8
+    2    0     8  68104.7    0.167     6
+    7    0     9 120189.0    0.204     2
+    6    0    11  71808.4    0.210     6
+   15    0    10 119990.6    0.198     4
+   13    0    16 122326.8    0.202     8
+    1    0    13 124500.6    0.249     1
+   16    0    12  96966.0    0.230     3
+   14    0    13 157029.0    0.266     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 10 ****
+Population's average fitness: 88611.67569 stdev: 122401.64982
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    8    0     7  25914.1    0.116     7
+   12    0     7  44918.2    0.158     9
+    3    0     7  38038.2    0.124     1
+    4    0     6  53362.1    0.145     7
+    9    0     8  73387.3    0.179     7
+    5    0    10  95326.9    0.258     9
+    2    0     9  78439.4    0.183     6
+    7    0    11 104004.3    0.278     2
+    6    0    10 105443.3    0.189     6
+   10    0     9  68384.6    0.171     2
+   15    0    11  92121.4    0.278     4
+   13    0    15  91127.3    0.282     8
+    1    0    14 106253.5    0.286     1
+   16    0    11 108304.4    0.236     3
+   14    0    15 139338.6    0.346     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 11 ****
+Population's average fitness: 90966.35510 stdev: 120328.13173
+Best fitness: 512935.48768 - size: (8, 52) - species 14 - id 555
+Population of 150 members in 15 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    8    0     5  36777.4    0.062     7
+   12    0     6  65282.5    0.099     9
+    3    0     6  36576.8    0.085     1
+    4    0     7  46005.5    0.115     7
+    9    0     9 121946.4    0.153     7
+    5    0    11  63778.6    0.196     9
+    2    0    10 107615.5    0.163    10
+    7    0    12  87124.2    0.212     2
+    6    0    11  88791.2    0.215    10
+   10    0     8  71119.0    0.144     2
+   15    0    12  93700.4    0.189     4
+   13    0    13 105761.3    0.188     8
+    1    0    13  92101.1    0.217     1
+   16    0    12 100848.8    0.221     3
+   14    0    15 143645.7    0.280     4
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x0000023F81BEF620>>
+
+**** starting gen 12 ****

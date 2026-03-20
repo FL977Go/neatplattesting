@@ -1,0 +1,300 @@
+
+**** starting gen 0 ****
+Generation 0 | (stats unavailable)
+
+**** starting gen 1 ****
+Generation 1 | (stats unavailable)
+
+**** starting gen 2 ****
+Generation 2 | (stats unavailable)
+
+**** starting gen 3 ****
+Generation 3 | (stats unavailable)
+
+**** starting gen 4 ****
+Generation 4 | (stats unavailable)
+
+**** starting gen 5 ****
+Generation 5 | (stats unavailable)
+
+**** starting gen 6 ****
+Generation 6 | (stats unavailable)
+
+**** starting gen 7 ****
+Generation 7 | (stats unavailable)
+
+**** starting gen 8 ****
+Generation 8 | (stats unavailable)
+
+**** starting gen 9 ****
+Generation 9 | (stats unavailable)
+
+**** starting gen 10 ****
+Generation 10 | (stats unavailable)
+
+**** starting gen 11 ****
+Generation 11 | (stats unavailable)
+
+**** starting gen 12 ****
+Generation 12 | (stats unavailable)
+
+**** starting gen 13 ****
+Generation 13 | (stats unavailable)
+
+**** starting gen 14 ****
+Generation 14 | (stats unavailable)
+
+**** starting gen 15 ****
+Generation 15 | (stats unavailable)
+
+**** starting gen 16 ****
+Generation 16 | (stats unavailable)
+
+**** starting gen 17 ****
+Generation 17 | (stats unavailable)
+
+**** starting gen 18 ****
+Generation 18 | (stats unavailable)
+
+**** starting gen 19 ****
+Generation 19 | (stats unavailable)
+
+**** starting gen 20 ****
+Generation 20 | (stats unavailable)
+
+**** starting gen 21 ****
+Generation 21 | (stats unavailable)
+
+**** starting gen 22 ****
+Generation 22 | (stats unavailable)
+
+**** starting gen 23 ****
+Generation 23 | (stats unavailable)
+
+**** starting gen 24 ****
+Generation 24 | (stats unavailable)
+
+**** starting gen 25 ****
+Generation 25 | (stats unavailable)
+
+**** starting gen 26 ****
+Generation 26 | (stats unavailable)
+
+**** starting gen 27 ****
+Generation 27 | (stats unavailable)
+
+**** starting gen 28 ****
+Generation 28 | (stats unavailable)
+
+**** starting gen 29 ****
+Generation 29 | (stats unavailable)
+
+**** starting gen 30 ****
+Generation 30 | (stats unavailable)
+
+**** starting gen 31 ****
+Generation 31 | (stats unavailable)
+
+**** starting gen 32 ****
+Generation 32 | (stats unavailable)
+
+**** starting gen 33 ****
+Generation 33 | (stats unavailable)
+
+**** starting gen 34 ****
+Generation 34 | (stats unavailable)
+
+**** starting gen 35 ****
+Generation 35 | (stats unavailable)
+
+**** starting gen 36 ****
+Generation 36 | (stats unavailable)
+
+**** starting gen 37 ****
+Generation 37 | (stats unavailable)
+
+**** starting gen 38 ****
+Generation 38 | (stats unavailable)
+
+**** starting gen 39 ****
+Generation 39 | (stats unavailable)
+
+**** starting gen 40 ****
+Generation 40 | (stats unavailable)
+
+**** starting gen 41 ****
+Generation 41 | (stats unavailable)
+
+**** starting gen 42 ****
+Generation 42 | (stats unavailable)
+
+**** starting gen 43 ****
+Generation 43 | (stats unavailable)
+
+**** starting gen 44 ****
+Generation 44 | (stats unavailable)
+
+**** starting gen 45 ****
+Generation 45 | (stats unavailable)
+
+**** starting gen 46 ****
+Generation 46 | (stats unavailable)
+
+**** starting gen 47 ****
+Generation 47 | (stats unavailable)
+
+**** starting gen 48 ****
+Generation 48 | (stats unavailable)
+
+**** starting gen 49 ****
+Generation 49 | (stats unavailable)
+
+**** starting gen 50 ****
+Generation 50 | (stats unavailable)
+
+**** starting gen 51 ****
+Generation 51 | (stats unavailable)
+
+**** starting gen 52 ****
+Generation 52 | (stats unavailable)
+
+**** starting gen 53 ****
+Generation 53 | (stats unavailable)
+
+**** starting gen 54 ****
+Generation 54 | (stats unavailable)
+
+**** starting gen 55 ****
+Generation 55 | (stats unavailable)
+
+**** starting gen 56 ****
+Generation 56 | (stats unavailable)
+
+**** starting gen 57 ****
+Generation 57 | (stats unavailable)
+
+**** starting gen 58 ****
+Generation 58 | (stats unavailable)
+
+**** starting gen 59 ****
+Generation 59 | (stats unavailable)
+
+**** starting gen 60 ****
+Generation 60 | (stats unavailable)
+
+**** starting gen 61 ****
+Generation 61 | (stats unavailable)
+
+**** starting gen 62 ****
+Generation 62 | (stats unavailable)
+
+**** starting gen 63 ****
+Generation 63 | (stats unavailable)
+
+**** starting gen 64 ****
+Generation 64 | (stats unavailable)
+
+**** starting gen 65 ****
+Generation 65 | (stats unavailable)
+
+**** starting gen 66 ****
+Generation 66 | (stats unavailable)
+
+**** starting gen 67 ****
+Generation 67 | (stats unavailable)
+
+**** starting gen 68 ****
+Generation 68 | (stats unavailable)
+
+**** starting gen 69 ****
+Generation 69 | (stats unavailable)
+
+**** starting gen 70 ****
+Generation 70 | (stats unavailable)
+
+**** starting gen 71 ****
+Generation 71 | (stats unavailable)
+
+**** starting gen 72 ****
+Generation 72 | (stats unavailable)
+
+**** starting gen 73 ****
+Generation 73 | (stats unavailable)
+
+**** starting gen 74 ****
+Generation 74 | (stats unavailable)
+
+**** starting gen 75 ****
+Generation 75 | (stats unavailable)
+
+**** starting gen 76 ****
+Generation 76 | (stats unavailable)
+
+**** starting gen 77 ****
+Generation 77 | (stats unavailable)
+
+**** starting gen 78 ****
+Generation 78 | (stats unavailable)
+
+**** starting gen 79 ****
+Generation 79 | (stats unavailable)
+
+**** starting gen 80 ****
+Generation 80 | (stats unavailable)
+
+**** starting gen 81 ****
+Generation 81 | (stats unavailable)
+
+**** starting gen 82 ****
+Generation 82 | (stats unavailable)
+
+**** starting gen 83 ****
+Generation 83 | (stats unavailable)
+
+**** starting gen 84 ****
+Generation 84 | (stats unavailable)
+
+**** starting gen 85 ****
+Generation 85 | (stats unavailable)
+
+**** starting gen 86 ****
+Generation 86 | (stats unavailable)
+
+**** starting gen 87 ****
+Generation 87 | (stats unavailable)
+
+**** starting gen 88 ****
+Generation 88 | (stats unavailable)
+
+**** starting gen 89 ****
+Generation 89 | (stats unavailable)
+
+**** starting gen 90 ****
+Generation 90 | (stats unavailable)
+
+**** starting gen 91 ****
+Generation 91 | (stats unavailable)
+
+**** starting gen 92 ****
+Generation 92 | (stats unavailable)
+
+**** starting gen 93 ****
+Generation 93 | (stats unavailable)
+
+**** starting gen 94 ****
+Generation 94 | (stats unavailable)
+
+**** starting gen 95 ****
+Generation 95 | (stats unavailable)
+
+**** starting gen 96 ****
+Generation 96 | (stats unavailable)
+
+**** starting gen 97 ****
+Generation 97 | (stats unavailable)
+
+**** starting gen 98 ****
+Generation 98 | (stats unavailable)
+
+**** starting gen 99 ****
+Generation 99 | (stats unavailable)

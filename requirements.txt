@@ -1,0 +1,4 @@
+neat-python==0.92
+pygame==2.6.1
+matplotlib>=3.9.0
+setuptools>=65.0.0
