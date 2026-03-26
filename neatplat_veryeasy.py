@@ -78,6 +78,7 @@ def sim(A,D,W,minx = 0):
     global acsellaration,cooldown,gravity,X,Y,enemyX,enemyY,fly,prev_enemyX,prev_Y
     fitness: float = 0
     death: bool = False
+    JUMP_P = 8
     # enemy_move()  # EASY: Stationary enemy - no chasing AI
     colpla.topleft = (round(X), round(Y))
     # keep floor and enemy rects in sync with positions
@@ -85,12 +86,15 @@ def sim(A,D,W,minx = 0):
     colem1.topleft = (round(enemyX), round(enemyY))
     if W and cooldown <= 0 or not fly == 0:
         fly += 1
-        Y -= SChight * 0.00069444
+        cooldown = 50
+        Y -= ((SChight * 0.00069444)*JUMP_P)/(max(fly/20+1,1))
         if fly == 180:  # EASY: Shorter jump duration
             fly = 0
     if not colpla.colliderect(colfl1):
         Y += gravity * acsellaration
         acsellaration *= 1.005
+        if acsellaration > 1.005**100:
+            X += (SCwidth*0.0001953)/2
     else:
         cooldown -= 3
         acsellaration = 1.1
