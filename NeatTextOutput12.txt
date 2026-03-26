@@ -1,0 +1,4 @@
+
+**** starting gen 0 ****
+
+**** Gemome number: 76 of generation: 0, has reached won in 1286.25 steps ****

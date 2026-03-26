@@ -1,0 +1,11 @@
+
+**** starting gen 0 ****
+
+**** Gemome number: 89 of generation: 0, has reached won in 2380.5 steps ****
+Population's average fitness: 88.85870 stdev: 74.50493
+Best fitness: 1025.47078 - size: (5, 56) - species 1 - id 89
+Population of 250 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    1    0   250     88.9    0.000     0
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x00000226E19E7620>>

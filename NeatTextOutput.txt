@@ -1,0 +1,42 @@
+
+**** starting gen 0 ****
+
+**** Gemome number: 18 of generation: 0, has reached won in 944.25 steps ****
+
+**** Gemome number: 18 of generation: 0, has reached won in 944.25 steps ****
+
+**** Gemome number: 40 of generation: 0, has reached won in 1731.75 steps ****
+
+**** Gemome number: 65 of generation: 0, has reached won in 957.75 steps ****
+
+**** Gemome number: 68 of generation: 0, has reached won in 1231.5 steps ****
+
+**** Gemome number: 68 of generation: 0, has reached won in 1231.5 steps ****
+
+**** Gemome number: 70 of generation: 0, has reached won in 957.75 steps ****
+
+**** Gemome number: 70 of generation: 0, has reached won in 957.75 steps ****
+
+**** Gemome number: 80 of generation: 0, has reached won in 1770.0 steps ****
+
+**** Gemome number: 90 of generation: 0, has reached won in 1297.5 steps ****
+
+**** Gemome number: 90 of generation: 0, has reached won in 1299.75 steps ****
+
+**** Gemome number: 102 of generation: 0, has reached won in 951.0 steps ****
+
+**** Gemome number: 102 of generation: 0, has reached won in 951.0 steps ****
+Population's average fitness: 3999999999999996416.00000 stdev: 19595917942265425920.00000
+Best fitness: 100000000000000000000.00000 - size: (5, 56) - species 1 - id 18
+Population of 150 members in 8 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    1    0    65 1538461538461535488.0    0.000     0
+    2    0    31  -3890.6    0.000     0
+    3    0    17 11764705882352939008.0    0.000     0
+    4    0    15  -3629.2    0.000     0
+    5    0     5 20000000000000000000.0    0.000     0
+    6    0     3 33333333333333327872.0    0.000     0
+    7    0    12 8333333333333330944.0    0.000     0
+    8    0     2  -4911.9    0.000     0
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x000001E6EA6EB620>>

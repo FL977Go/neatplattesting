@@ -1,0 +1,31 @@
+
+**** starting gen 0 ****
+
+**** Gemome number: 20 of generation: 0, has reached won in 2143.5 steps ****
+
+**** Gemome number: 39 of generation: 0, has reached won in 1279.5 steps ****
+
+**** Gemome number: 48 of generation: 0, has reached won in 1449.75 steps ****
+
+**** Gemome number: 48 of generation: 0, has reached won in 1450.5 steps ****
+
+**** Gemome number: 90 of generation: 0, has reached won in 1994.25 steps ****
+
+**** Gemome number: 146 of generation: 0, has reached won in 1384.5 steps ****
+Population's average fitness: 352.94996 stdev: 1418.10382
+Best fitness: 10277.38665 - size: (5, 56) - species 2 - id 48
+Population of 150 members in 11 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+    1    0    45    159.0    0.000     0
+    2    0    53    530.3    0.000     0
+    3    0     2    112.6    0.000     0
+    4    0     5    141.6    0.000     0
+    5    0    13    930.4    0.000     0
+    6    0     4    113.4    0.000     0
+    7    0    13    156.5    0.000     0
+    8    0     4    110.0    0.000     0
+    9    0     6    197.3    0.000     0
+   10    0     3    113.9    0.000     0
+   11    0     2     99.0    0.000     0
+Total extinctions: <bound method BaseReporter.complete_extinction of <neat.statistics.StatisticsReporter object at 0x00000165011EB620>>

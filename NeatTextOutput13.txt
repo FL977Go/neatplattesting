@@ -1,0 +1,14 @@
+
+**** starting gen 0 ****
+
+**** Gemome number: 87 of generation: 0, has reached won in 1399.5 steps ****
+
+**** Gemome number: 102 of generation: 0, has reached won in 1287.0 steps ****
+
+**** Gemome number: 102 of generation: 0, has reached won in 1282.5 steps ****
+
+**** Gemome number: 111 of generation: 0, has reached won in 1998.75 steps ****
+
+**** Gemome number: 152 of generation: 0, has reached won in 3242.25 steps ****
+
+**** Gemome number: 257 of generation: 0, has reached won in 1285.5 steps ****

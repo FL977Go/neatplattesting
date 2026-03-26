@@ -79,18 +79,22 @@ def sim(A,D,W):
     fitness: float = 0
     death: bool = False
     enemy_move()
+    JUMP_P = 4.5 #less jump power for hard mode
     colpla.topleft = (round(X), round(Y))
     # keep floor and enemy rects in sync with positions
     colfl1.topleft = (round(SCwidth * 0.01), floor_y)
     colem1.topleft = (round(enemyX), round(enemyY))
     if W and cooldown <= 0 or not fly == 0:
         fly += 1
-        Y -= SChight * 0.00069444
-        if fly == 330:  # HARD: 330 frame jump
+        cooldown = 50
+        Y -= ((SChight * 0.00069444)*JUMP_P)/(max(fly/20+1,1))
+        if fly == 180:  # EASY: Shorter jump duration
             fly = 0
     if not colpla.colliderect(colfl1):
         Y += gravity * acsellaration
         acsellaration *= 1.005
+        if acsellaration > 1.005**100:
+            X += (SCwidth*0.0001953)*(acsellaration)
     else:
         cooldown -= 3
         acsellaration = 1.1

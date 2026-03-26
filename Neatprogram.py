@@ -262,7 +262,7 @@ try:
                     
                     
                     if os.environ.get('HEADLESS') != '1' and display.get_active():
-                        if steps % 8 == 0:
+                        if steps % 4 == 0:
                             blit(X,Y,enemyX,enemyY,str(genome_id),str(cgen),genome.fitness)                                      
                         pump()
                     else:
@@ -355,8 +355,8 @@ try:
                     
                     
                     if os.environ.get('HEADLESS') != '1' and display.get_active():
-                        if steps % 5 == 0:
-                            blit(X,Y,enemyX,enemyY,str('Winner'),str(cgen))                                      
+                        
+                        blit(X,Y,enemyX,enemyY,str('Winner'),str(cgen))                                      
                         pump()
                     else:
                         pump()
