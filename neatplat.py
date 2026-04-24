@@ -44,7 +44,7 @@ colwin.topleft = (round(SCwidth * 0.74), floor_y - win.get_height())
 # hwnd = pygame.display.get_wm_info()['window']
 # windll.user32.SetForegroundWindow(hwnd)
 X = 20
-Y = 300
+Y = 600
 cooldown = 0
 gravity = SChight*0.0000907407
 acsellaration = 1.01
@@ -54,8 +54,9 @@ enemyY = floor_y - enemy1.get_height()
 enemyISR = 0
 enemyISL = 0
 fly = 0
-prev_Y = 300
+prev_Y = 600
 prev_enemyX=enemyX
+inair = False
 # def blit(X,Y,enemyX,enemyY):
 #     pygame.display.flip()
 #     SCREEN.fill((200, 200, 200))
@@ -65,17 +66,25 @@ prev_enemyX=enemyX
 #     SCREEN.blit(win, (SCwidth * 0.7, (800 - SChight * 0.1)))
 def enemy_move():
     global enemyX,enemyISR,enemyISL
+    JAIR_DEBUF = 200
     if X > enemyX:
-        enemyX += SCwidth*((0.1603 + ((random()*0.01)-0.005))/1536)
+        if not inair:
+            enemyX += SCwidth*((0.1603 + ((random()*0.01)-0.005))/(1536-JAIR_DEBUF))
+        else: 
+            enemyX += SCwidth*((0.1603 + ((random()*0.01)-0.005))/(1536+JAIR_DEBUF))
         enemyISR = 1
         enemyISL = 0
     if X < enemyX:
-        enemyX -= SCwidth*((0.1603 + ((random()*0.01)-0.005))/1536)
+        if not inair:
+            enemyX -= SCwidth*((0.1603 + ((random()*0.01)-0.005))/(1536-JAIR_DEBUF))
+        else: 
+            enemyX -= SCwidth*((0.1603 + ((random()*0.01)-0.005))/(1536+JAIR_DEBUF))
         enemyISR = 0
         enemyISL = 1
         # decrease speed till good point found.
+        
 def sim(A,D,W):
-    global acsellaration,cooldown,gravity,X,Y,enemyX,enemyY,fly,prev_enemyX,prev_Y
+    global acsellaration,cooldown,gravity,X,Y,enemyX,enemyY,fly,prev_enemyX,prev_Y, inair
     fitness: float = 0
     death: bool = False
     enemy_move()
@@ -83,7 +92,7 @@ def sim(A,D,W):
     # keep floor and enemy rects in sync with positions
     colfl1.topleft = (round(SCwidth * 0.01), floor_y)
     colem1.topleft = (round(enemyX), round(enemyY))
-    JUMP_P = 3.5
+    JUMP_P = 3.32
     if W and cooldown <= 0 or not fly == 0:
         fly += 1
         cooldown = 50
@@ -94,7 +103,10 @@ def sim(A,D,W):
         Y += gravity * acsellaration
         acsellaration *= 1.005
         if acsellaration > 1.005**100:
+            inair = True
             X += (SCwidth*0.0001953)*(acsellaration**.25)
+        else:
+            inair = False
     else:
         cooldown -= 3
         acsellaration = 1.1
@@ -102,7 +114,7 @@ def sim(A,D,W):
     if colpla.top > SChight * 0.9:
         # player fell off bottom - reset and penalize like other deaths
         X = 20
-        Y = 300
+        Y = 600
         cooldown = 0
         gravity = 9.8 * 0.008
         acsellaration = 1.01
@@ -112,7 +124,7 @@ def sim(A,D,W):
         death = True
     if colpla.colliderect(colem1):
         X = 20
-        Y = 300
+        Y = 600
         cooldown = 0
         gravity = 9.8 * 0.008
         acsellaration = 1.01
@@ -122,13 +134,13 @@ def sim(A,D,W):
         death = True
     if colpla.colliderect(colwin):
         X = 20
-        Y = 300
+        Y = 600
         cooldown = 0
         gravity = 9.8 * 0.008
         acsellaration = 1.01
         enemyX = randint(int(SCwidth*0.35), int(SCwidth*0.55))
         enemyY = floor_y - enemy1.get_height()
-        fitness += 600
+        fitness += 9999999
         death = True
     if D:
         X += SCwidth*0.0001953
@@ -174,7 +186,7 @@ def reset():
     """
     global X, Y, cooldown, gravity, acsellaration, enemyX, enemyY, enemyISR, enemyISL, fly, prev_Y, prev_enemyX
     X = 40
-    Y = 300
+    Y = 600
     cooldown = 0
     gravity = 9.8 * 0.008
     acsellaration = 1.01
